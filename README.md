@@ -10,10 +10,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# Infinity ICT Solutions
+### This website provides all your ICT needs.
+## PHP version 5 and above
+## Javascript plugins :Swiper js, Splide js, Wow slider js
+### Html and Css
 
 - Bulleted
 - List
